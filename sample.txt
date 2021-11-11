@@ -1,3 +1,5 @@
 git example
 add new
 add conflict from tutorial
+add conflict from tutorial2
+
