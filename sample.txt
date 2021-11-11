@@ -1,2 +1,3 @@
 git example
 add new
+add conflict from tutortial2
